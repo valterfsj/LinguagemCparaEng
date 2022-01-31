@@ -1,0 +1,2 @@
+Caso declare if(num = 10) estará definindo o valor 10 para variavel num.
+Para corrigir, deve-se escrever if num == 10
